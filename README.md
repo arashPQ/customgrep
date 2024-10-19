@@ -5,10 +5,10 @@
    ```ruby 
    cargo run
 ```
-<h5>also you can run with in your command line</h5>
+<h5>also you can run in your command line</h5>
    
    ```ruby
-   ./target/debug/customgrep"
+   ./target/debug/customgrep
 ```
 
 <h2>Actually you can use ">"  for output lines  in custom text file .</h2>
