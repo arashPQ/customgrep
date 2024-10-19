@@ -5,7 +5,7 @@
 <h2>Actually you can use ">"  for output lines  in custom text file .</h2>
 <h2>Example: </h3>
 <h4>
-   ```
+   ```ruby
    ./customgrep dolor ../../sample.txt > ~/Desktop/output.txt
   ```
 </h4>
