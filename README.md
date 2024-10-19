@@ -1,6 +1,7 @@
 <h2>Customgrep is a very small CLI program.</h2>
 
-<h5>you can run source code with </h5> 
+<h5>you can run source code with </h5>
+
    ```ruby 
    cargo run
 ```
