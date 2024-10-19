@@ -3,7 +3,7 @@
 <h5>you can run source code with "cargo run" and</h5>
 <h5>also you can run with "./target/debug/customgrep" in your command line</h5><br>
 <h2>Actually you can use ">"  for output lines  in custom text file .</h2>
-<h2>Example: </h3>
+<h2>Example: </h2>
 
    ```ruby
    ./customgrep dolor ../../sample.txt > ~/Desktop/output.txt
