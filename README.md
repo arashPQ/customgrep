@@ -11,6 +11,16 @@
    ```ruby
    ./customgrep dolor ../../sample.txt > ~/Desktop/output.txt
   ```
+<h3>Now You can see Output with "less" command</h3>
+
+```ruby
+   less ~/Desktop/outout.txt
+```
+```ruby
+   Searching for dolor
+   In file ../../sample.txt
+   Bacon ipsum dolor amet bresaola bacon shankle,
+   ```
 
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/arashPQ" target="blank">
