@@ -4,11 +4,11 @@
 <h5>also you can run with "./target/debug/customgrep" in your command line</h5><br>
 <h2>Actually you can use ">"  for output lines  in custom text file .</h2>
 <h2>Example: </h3>
-<h4>
+
    ```ruby
    ./customgrep dolor ../../sample.txt > ~/Desktop/output.txt
   ```
-</h4>
+
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/arashPQ" target="blank">
 arash</a></h1>
